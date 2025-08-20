@@ -1,4 +1,4 @@
-### Node.js TypeScript Starter Kit
+# Node.js TypeScript Starter Kit
 This is a complete starter kit for Node.js with TypeScript, Express, Prisma, and Nodemon.
 
 ### Features
